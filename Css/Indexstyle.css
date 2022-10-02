@@ -1,0 +1,12 @@
+body{
+    background-image: url("\htdocs\OnlineBookingSystem\PhpFiles\Booking.png");
+  }
+  .Introduction{
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 10%;
+   margin-left:5%;
+   /* font-weight: bold; */
+  
+  }
+  
